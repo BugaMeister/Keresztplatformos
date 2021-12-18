@@ -1,4 +1,4 @@
-# pizza_app
+# meetings_app
 
 A new Flutter project.
 
